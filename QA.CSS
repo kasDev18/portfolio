@@ -12,8 +12,7 @@ body
 .cont img
 {
     position: relative;
-    left: 60px;
-    top: 50px;
+    margin-left: 60px;
 }
 .cont span
 {
