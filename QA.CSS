@@ -6,13 +6,12 @@ body
 .fpc-logo_name .cont
 {
     position: absolute;
-    left: 300px;
-    top: 8rem;
+    margin: 8rem 0 0 300px;
 }
 .cont img
 {
     position: relative;
-    margin-left: 60px;
+    transform: translate(60px, 15px);
 }
 .cont span
 {
